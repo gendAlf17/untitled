@@ -1,0 +1,7 @@
+.idea/
+*.iml
+*.iws
+# Project exclude paths
+/api/target/
+/db/target/
+/service/target/
